@@ -3,6 +3,8 @@
 🚦 Project: Traffic & Mobility Insights
 
 A full-stack application for visualizing urban road networks, analyzing historical congestion, and predicting commute times using Machine Learning. The system treats the city as a graph network to optimize routing and insights.
+Source: OpenStreetMap + City Transport APIs
+https://www.openstreetmap.org/ + https://developer.transportapi.com/
 
 🏗 Architecture
 
