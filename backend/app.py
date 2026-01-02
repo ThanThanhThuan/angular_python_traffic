@@ -10,8 +10,8 @@ CORS(app) # Allow Angular to hit this API
 predictor = TrafficPredictor()
 
 # TransportAPI Config
-TRANSPORT_APP_ID = "b292cff6"
-TRANSPORT_APP_KEY = "da5b28735620e89848b4ef37095c1bb6"
+TRANSPORT_APP_ID = "kkk2cffk"
+TRANSPORT_APP_KEY = "kkkk28735620e89848b4ef37095c1bbk"
 
 @app.route('/api/network', methods=['GET'])
 def get_network():
